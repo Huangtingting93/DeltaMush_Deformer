@@ -1,11 +1,8 @@
 # DeltaMush
 ##  This repo is implemented of paper : Delta Mush: smoothing deformations while preserving detail.
-[paper!](https://dl.acm.org/doi/10.1145/2633374.2633376#:~:text=9-,ABSTRACT,original%20detail%20of%20the%20model.&text=It%20has%20been%20used%20in,it%20was%20developed%20in%202010.)
+[paper](https://dl.acm.org/doi/10.1145/2633374.2633376#:~:text=9-,ABSTRACT,original%20detail%20of%20the%20model.&text=It%20has%20been%20used%20in,it%20was%20developed%20in%202010.)
 
-<br />
-<br />
 Citation:<br />
-
 @inproceedings
 {<br />
 10.1145/2633374.2633376,<br />
